@@ -1,2 +1,2 @@
 # ProjectShuffle
- React/Django site
+ React/Django
